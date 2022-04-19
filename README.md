@@ -26,11 +26,11 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages i have the most __**public**__ code on Github*
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sendhyrama&show_icons=true&locale=en&layout=compact" alt="sendhyrama" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sendhyrama&show_icons=true&locale=en&layout=compact" alt="sendhyrama" /></p><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sendhyrama&show_icons=true&locale=en" alt="sendhyrama" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sendhyrama&show_icons=true&locale=en" alt="sendhyrama" /></p><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sendhyrama&" alt="sendhyrama" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sendhyrama&" alt="sendhyrama" /></p>
 
 
 <!--
