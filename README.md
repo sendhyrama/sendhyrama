@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sendhyrama" alt="sendhyrama" /></a> </p>
 
-<h3>- 👨‍💻 All of my projects are available at [sendhyrama.com](sendhyrama.com)<h3>
+<h3>- 👨‍💻 All of my projects are available at <a href="https://sendhyrama.com/">sendhyrama.com<h3>
 
 <h3>- 📝 I regularly write articles on [sendhyrama.medium.com](sendhyrama.medium.com)<h3>
 
