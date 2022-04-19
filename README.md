@@ -29,7 +29,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sendhyrama&show_icons=true&locale=en" alt="sendhyrama" /></p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sendhyrama&" alt="sendhyrama" /></p>
 
-<hr><h5 style="font-style: italic">NOTE: Top languages doesn't indicate my skill level or something like that, it's a Github metric of which languages i have the most public code on Github</h5>
+<hr><h3>Note : </h3><br>
+<h4 style="font-style: italic">Top languages doesn't indicate my skill level or something like that, it's a Github metric of which languages i have the most public code on Github</h4>
 
 <!--
 **sendhyrama/sendhyrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
