@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sendhy Ramadhinata</h1>
-<h3 align="left">I'm an Information System student at the University of National Development "Veteran" East Java and an aspiring web and mobile app developer. I'm currently learning back-end and multi-platform development besides studying university courses as part of my degree.
-
-I'm interested in tech business and all about programming. Besides that, I also interested in photography, videography, and editing of both.</h3>
+<h2 align="left">I'm an Information System student at the University of National Development "Veteran" East Java and an aspiring web and mobile app developer.<p>
+  I'm currently learning back-end and multi-platform development besides studying university courses as part of my degree.<p> </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendhyrama&label=Profile%20views&color=0e75b6&style=flat" alt="sendhyrama" /> </p>
 
