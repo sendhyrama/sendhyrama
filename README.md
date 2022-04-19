@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sendhy Ramadhinata</h1>
-<h2 align="left" font-size="small">I'm currently learning back-end and multi-platform development besides studying university courses as part of my degree.<p> </h2><br>
-Let's connect 🤝
+<h2 align="left">I'm currently learning back-end and multi-platform development besides studying university courses as part of my degree.<p> </h2><br>
+<h3 align="left">Let's connect 🤝<h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendhyrama&label=Profile%20views&color=0e75b6&style=flat" alt="sendhyrama" /> </p>
 
