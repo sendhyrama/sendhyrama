@@ -2,7 +2,7 @@
 <h3 align="left">I'm an undergraduate student of information system and an aspiring web and mobile app developer. I'm currently learning back-end and multi-platform development besides studying university courses as part of my degree.<p> </h3>
 <h2 align="left">Let's connect 🤝</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sendhyrama&label=Profile%20views&color=0e75b6&style=flat" alt="sendhyrama" /> </p>
+<hr><p align="left"> <img src="https://komarev.com/ghpvc/?username=sendhyrama&label=Profile%20views&color=0e75b6&style=flat" alt="sendhyrama" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sendhyrama" alt="sendhyrama" /></a> </p>
 
