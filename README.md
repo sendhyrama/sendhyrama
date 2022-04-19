@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sendhyrama" alt="sendhyrama" /></a> </p>
 
-<h3>- 👨‍💻 All of my projects are available at <a href="https://sendhyrama.com/">sendhyrama.com<h3>
+<h3>- 👨‍💻 All of my projects & experiences are available at <a href="https://sendhyrama.com/">sendhyrama.com<h3>
 
-<h3>- 📝 I regularly write articles on [sendhyrama.medium.com](sendhyrama.medium.com)<h3>
+<h3>- 📝 I regularly write articles on <a href="https://sendhyrama.medium.com/">sendhyrama.medium.com<h3>
 
-<h3>- 📫 How to reach me **sendhyrama@gmail.com**<h3>
-
-<h3>- 📄 Know about my experiences [sendhyrama.com](sendhyrama.com)<h3>
+<h3>- 📫 How to reach me <a href="sendhyrama@gmail.com/">sendhyrama@gmail.com<h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
