@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendhyrama&label=Profile%20views&color=0e75b6&style=flat" alt="sendhyrama" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sendhyrama&title=Stars,Followers" alt="sendhyrama" /></a> </p>
-
 <h4>- 👨‍💻 All of my projects & experiences are available at <a href="https://sendhyrama.com/">sendhyrama.com</a> (coming soon)</h4>
 
 <h4>- 📝 I regularly write articles on <a href="https://sendhyrama.medium.com/">sendhyrama.medium.com</a></h4>
