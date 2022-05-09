@@ -1,4 +1,4 @@
-<h2 align="left">Hi <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Sendhy Ramadhinata</h2>
+<h2 align="left">Hi <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> , I'm Sendhy Ramadhinata</h2>
 <h4 align="left">I'm an undergraduate student of information system and an aspiring web and mobile app developer. I'm currently learning back-end and multi-platform development besides studying university courses as part of my degree.<p> </h4>
 <h3 align="left">Let's connect 🤝</h3><hr>
 
@@ -10,7 +10,7 @@
 
 <h4>- 📫 Drop a message to <a href="mailto:sendhyrama@gmail.com/">sendhyrama@gmail.com</a></h4>
 
-<h4>- ✨ Check out my [dev.to page](https://dev.to/sendhyrama)</h4>
+<h4>- ✨ Check out my dev.to page <a href="https://dev.to/sendhyrama/">dev.to/sendhyrama</a></h4>
 
 <hr><h3 align="left">Connect with me :</h3>
 <p align="left">
