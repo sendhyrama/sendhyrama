@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendhyrama&label=Profile%20views&color=0e75b6&style=flat" alt="sendhyrama" /> </p>
 
-<h4>- 👨‍💻 All of my projects & experiences are available at <a href="https://sendhyrama.com/">sendhyrama.com</a> (under construction)</h4>
+<h4>- 👨‍💻 All of my projects & experiences are available at <a href="https://sendhyrama.github.io/">sendhyrama.com</a> (under construction)</h4>
 
 <h4>- 📝 I regularly write articles on <a href="https://sendhyrama.medium.com/">sendhyrama.medium.com</a></h4>
 
