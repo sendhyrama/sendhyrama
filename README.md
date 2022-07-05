@@ -21,9 +21,9 @@
 <a href="https://medium.com/@sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sendhyrama" height="30" width="40" /></a>
 </p><hr>
 
-<!-- 
+
 ### Quote of The Day :
-![Quote](https://github-readme-quotes.herokuapp.com/quote)<hr> -->
+![Quote](https://github-readme-quotes.herokuapp.com/quote)<hr>
 
 
 <h3 align="left">Languages and Tools :</h3>
