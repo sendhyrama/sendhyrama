@@ -12,7 +12,7 @@
 <h4>- ✨ Check out my dev.to page <a href="https://dev.to/sendhyrama/">dev.to/sendhyrama</a></h4>
 -->
 
-<hr><h3 align="left">Connect with Me :</h3>
+<h3 align="left">Connect with Me :</h3>
 <p align="left">
 <a href="https://dev.to/sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sendhyrama" height="30" width="40" /></a>
 <a href="https://twitter.com/sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sendhyrama" height="30" width="40" /></a>
