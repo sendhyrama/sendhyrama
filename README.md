@@ -26,8 +26,8 @@
 </p><hr>
 
 
-### Quote of The Day :
-![Quote](https://github-readme-quotes.herokuapp.com/quote)<hr>
+<!-- ### Quote of The Day :
+![Quote](https://github-readme-quotes.herokuapp.com/quote)<hr> -->
 
 
 <!-- <h3 align="left">Languages and Tools :</h3>
