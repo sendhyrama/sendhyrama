@@ -1,8 +1,8 @@
 <h2 align="left">Howdy <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> , I'm Sendhy Ramadhinata</h2>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendhyrama&label=Profile%20views&color=0e75b6&style=flat" alt="sendhyrama" /> </p>
-
-<!-- <h4 align="left">I'm an undergraduate student of information system and an aspiring web and mobile app developer. I'm currently learning back-end and multi-platform development besides studying university courses as part of my degree.<p> </h4><hr> 
+ <h4 align="left">I'm an undergraduate student of information system and an aspiring web and mobile app developer. I'm currently learning back-end and multi-platform development besides studying university courses as part of my degree.<p> </h4><hr> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendhyrama&label=Profile%20views&color=0e75b6&style=flat" alt="sendhyrama" /> </p>
 
@@ -39,9 +39,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sendhyrama&show_icons=true&locale=en&theme=dark" alt="sendhyrama" /></p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sendhyrama&theme=dark" alt="sendhyrama" /></p>
 
+<!--
 <hr><h3>📌 Note : </h3>
 <h4>Top languages doesn't indicate my skill level or something like that, it's a Github metric of which languages i have the most public code on Github</h4>
-
+-->
 <!--
 **sendhyrama/sendhyrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
