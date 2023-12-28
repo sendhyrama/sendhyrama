@@ -1,5 +1,19 @@
 <h1 align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FFFFFF&center=true&width=1400&lines=Howdy+👋,+I'm+Sendhy+Ramadhinata" alt="Typing SVG" align="center" /></h1>
 
+<p align="center">
+   <a href="https://instagram.com/sendhyrama">
+    <img src="https://img.shields.io/badge/sendhyrama_-0078D4?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  <a href="https://www.linkedin.com/in/sendhyrama/">
+    <img src="https://img.shields.io/badge/-sendhyrama-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  <a href="mailto:sendhyrama@gmail.com">
+    <img src="https://img.shields.io/badge/sendhyrama@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--
 <h2 align="left">Howdy <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> , I'm Sendhy Ramadhinata</h2> -->
 
@@ -20,19 +34,8 @@
 
 - 🌱 I’m currently learning Android Development using Kotlin
 - 💬 Ask me about Cloud, Backend, and Android Dev
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="left">Connect with Me :</h2>
-<p align="left">
-<a href="https://dev.to/sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sendhyrama" height="30" width="40" /></a>
-<a href="https://twitter.com/sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sendhyrama" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sendhyrama" height="30" width="40" /></a>
-<a href="https://instagram.com/sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sendhyrama" height="30" width="40" /></a>
-<a href="https://dribbble.com/sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sendhyrama" height="30" width="40" /></a>
-<a href="https://medium.com/@sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sendhyrama" height="30" width="40" /></a>
-</p><hr>
-<!--
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
--->
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
   </a>
