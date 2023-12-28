@@ -1,4 +1,7 @@
-<h2 align="left">Howdy <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> , I'm Sendhy Ramadhinata</h2>
+<h1 align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FFFFFF&center=true&width=1400&lines=Howdy+👋,+I'm+Sendhy+Ramadhinata" alt="Typing SVG" align="center" /></h1>
+
+<!--
+<h2 align="left">Howdy <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> , I'm Sendhy Ramadhinata</h2> -->
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendhyrama&label=Profile%20views&color=0e75b6&style=flat" alt="sendhyrama" /> </p>
@@ -18,7 +21,7 @@
 - 🌱 I’m currently learning Android Development using Kotlin
 - 💬 Ask me about Cloud, Backend, and Android Dev
 
-<h3 align="left">Connect with Me :</h3>
+<h2 align="left">Connect with Me :</h2>
 <p align="left">
 <a href="https://dev.to/sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sendhyrama" height="30" width="40" /></a>
 <a href="https://twitter.com/sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sendhyrama" height="30" width="40" /></a>
