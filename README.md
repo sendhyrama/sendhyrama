@@ -30,7 +30,13 @@
 <a href="https://dribbble.com/sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sendhyrama" height="30" width="40" /></a>
 <a href="https://medium.com/@sendhyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sendhyrama" height="30" width="40" /></a>
 </p><hr>
-
+<!--
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
+-->
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
+  </a>
+  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sendhyrama?ext=contest)
 
 <!-- ### Quote of The Day :
