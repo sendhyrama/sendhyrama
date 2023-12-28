@@ -36,9 +36,11 @@
 - 💬 Ask me about Cloud, Backend, and Android Dev
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
-  </a>
+<p>
+   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&redirect=true">
+      <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
+   </a>
+</p>
   
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sendhyrama?ext=contest)
 
