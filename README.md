@@ -12,8 +12,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--
 <h2 align="left">Howdy <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> , I'm Sendhy Ramadhinata</h2> -->
 
@@ -31,19 +29,15 @@
 
 <h4>- ✨ Check out my dev.to page <a href="https://dev.to/sendhyrama/">dev.to/sendhyrama</a></h4>
 -->
-
-- 🌱 I’m currently learning Android Development using Kotlin
-- 💬 Ask me about Cloud, Backend, and Android Dev
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p>
-   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&redirect=true">
-      <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
-   </a>
+<p align="center">
+• 🌱 I’m currently learning Android Development using Kotlin<br>
+• 💬 Ask me about Cloud, Backend, and Android Dev
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-![Leetcode Stats](https://leetcard.jacoblin.cool/sendhyrama?ext=contest)
-
+<p align="center">
+   <img src="https://leetcard.jacoblin.cool/sendhyrama?ext=contest" alt="sendhyrama">
+<p>
 <!-- ### Quote of The Day :
 ![Quote](https://github-readme-quotes.herokuapp.com/quote)<hr> -->
 
@@ -60,7 +54,15 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sendhyrama&show_icons=true&locale=en&theme=dark" alt="sendhyrama" /></p><br>
 -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sendhyrama&theme=dark" alt="sendhyrama" /></p>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sendhyrama&theme=dark" alt="sendhyrama">
+</p>
+
+<p align="center">
+   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&redirect=true">
+      <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
+   </a>
+</p>
 
 <!--
 <hr><h3>📌 Note : </h3>
