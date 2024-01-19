@@ -29,10 +29,13 @@
 
 <h4>- ✨ Check out my dev.to page <a href="https://dev.to/sendhyrama/">dev.to/sendhyrama</a></h4>
 -->
-<p align="center">
-• 🌱 I’m currently learning Android Development using Kotlin<br>
-• 💬 Ask me about Cloud, Backend, and Android Dev
-</p>
+
+<h5 align="center">
+👩🏻‍💻 Lead <a href="https://gdsc.community.dev/universitas-pembangunan-nasional-veteran-jawa-timur">GDSC Chapter UPNVJT, Indonesia</a><br>
+👩🏻‍💻 Organizer <a href="https://surabayadev.org">Surabaya Developer, Indonesia</a><br>
+💻 Currently, an Android learner and Flutter Enthusiast
+</h5>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <p align="center">
