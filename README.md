@@ -31,8 +31,8 @@
 -->
 
 <h4 align="center">
-👩🏻‍💻 Leader @ <a href="https://gdsc.community.dev/universitas-pembangunan-nasional-veteran-jawa-timur">GDSC UPNVJT, Indonesia</a><br>
-👩🏻‍💻 Organizer @ <a href="https://surabayadev.org">Surabaya Developer, Indonesia</a><br>
+👩🏻‍💻 Leader at <a href="https://gdsc.community.dev/universitas-pembangunan-nasional-veteran-jawa-timur">GDSC UPNVJT, Indonesia</a><br>
+👩🏻‍💻 Organizer at <a href="https://surabayadev.org">Surabaya Developer, Indonesia</a><br>
 💻 Currently, an Android learner and Flutter Enthusiast
 </h4>
 
