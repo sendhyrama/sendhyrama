@@ -31,16 +31,15 @@
 -->
 
 <h4 align="center">
-👩🏻‍💻 Leading <a href="https://gdsc.community.dev/universitas-pembangunan-nasional-veteran-jawa-timur">GDSC UPNVJT, Indonesia</a><br>
-👩🏻‍💻 Organizing <a href="https://surabayadev.org">Surabaya Developer, Indonesia</a><br>
+🧑🏻‍🍳 Former chef <a href="https://gdsc.community.dev/universitas-pembangunan-nasional-veteran-jawa-timur">GDSC UPNVJT, Indonesia</a><br>
+🍳 Cooking <a href="https://surabayadev.org">Surabaya Developer, Indonesia</a><br>
 💻 Currently, an Android learner and Flutter Enthusiast
 </h4>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![An image of @sendhyrama's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sendhyrama)](https://holopin.io/@sendhyrama)
   
-<p align="center">
-   <img src="https://leetcard.jacoblin.cool/sendhyrama?ext=contest" alt="sendhyrama">
-<p>
 <!-- ### Quote of The Day :
 ![Quote](https://github-readme-quotes.herokuapp.com/quote)<hr> -->
 
@@ -58,6 +57,7 @@
 -->
 
 <p align="center">
+   <img src="https://leetcard.jacoblin.cool/sendhyrama?ext=contest" alt="sendhyrama" style="margin-right: 20px;">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sendhyrama&theme=dark" alt="sendhyrama">
 </p>
 
