@@ -30,11 +30,17 @@
 <h4>- ✨ Check out my dev.to page <a href="https://dev.to/sendhyrama/">dev.to/sendhyrama</a></h4>
 -->
 
-<h4 align="center">
+<h5 align="center">
 🧑🏻‍🍳 Former chef <a href="https://gdsc.community.dev/universitas-pembangunan-nasional-veteran-jawa-timur">GDSC UPNVJT, Indonesia</a><br>
 🍳 Cooking <a href="https://surabayadev.org">Surabaya Developer, Indonesia</a><br>
-💻 Currently, an Android learner and Flutter Enthusiast
-</h4>
+💻 Currently, an Android learner and Flutter enthusiast
+</h5>
+
+<p align="center">
+   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&redirect=true">
+      <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u2aussu6bmb63igjp7j2vnqkce&cover_image=true&theme=natemoo-re&show_offline=true&background_color=18181b&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+   </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -59,12 +65,6 @@
 <p align="center">
    <img src="https://leetcard.jacoblin.cool/sendhyrama?ext=contest" alt="sendhyrama" style="margin-right: 20px;">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sendhyrama&theme=dark" alt="sendhyrama">
-</p>
-
-<p align="center">
-   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&redirect=true">
-      <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u2aussu6bmb63igjp7j2vnqkce&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
-   </a>
 </p>
 
 <!--
