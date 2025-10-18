@@ -1,6 +1,6 @@
 <h1 align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FFFFFF&center=true&width=1400&lines=Howdy+👋,+I'm+Sendhy+Ramadhinata" alt="Typing SVG" align="center" /></h1>
 
-<p align="center">
+<!-- <p align="center">
    <a href="https://instagram.com/sendhyrama">
     <img src="https://img.shields.io/badge/sendhyrama_-0078D4?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
   </a>
@@ -10,7 +10,7 @@
   <a href="mailto:sendhyrama@gmail.com">
     <img src="https://img.shields.io/badge/sendhyrama@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-</p>
+</p> -->
 
 <!--
 <h2 align="left">Howdy <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> , I'm Sendhy Ramadhinata</h2> -->
@@ -30,11 +30,11 @@
 <h4>- ✨ Check out my dev.to page <a href="https://dev.to/sendhyrama/">dev.to/sendhyrama</a></h4>
 -->
 
-<h5 align="center">
+<!-- <h5 align="center">
 🧑🏻‍🍳 Former chef <a href="https://gdsc.community.dev/universitas-pembangunan-nasional-veteran-jawa-timur">GDSC UPNVJT, Indonesia</a><br>
 🍳 Cooking <a href="https://surabayadev.org">Surabaya Developer, Indonesia</a><br>
 💻 Currently, an Android learner and Flutter enthusiast
-</h5>
+</h5> -->
 
 <p align="center">
    <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&redirect=true">
